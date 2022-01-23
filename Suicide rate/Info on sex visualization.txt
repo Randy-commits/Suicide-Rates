@@ -1,0 +1,2 @@
+When the dataset, males account for 5,188,910 of suicidal death while the females account for 1,559,510 of female death. 
+Therefore, males account for 3.32X many suicuide deaths as women.

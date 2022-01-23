@@ -1,0 +1,5 @@
+We shall see if there are any difference in sex trends overtime
+According to the graph, we can clearly see that suicidal deaths among men is consistently higher.
+1. Male deaths increased 2X from 1984 to 2003, then later reduced by 16X from 2003 to 2016
+2. Female deaths peaked in 1999, an increase of 1.7X from 1984. Female deaths also reduced by 16X after it reached its peak in 1999 to 2016.
+ 
